@@ -1,23 +1,23 @@
 {
-  "name": "cv-os",
+  "name": "cv-oleg_sk",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://oleg-skrypnyk.github.io/cv-os/",
+  "homepage": "https://oleg-skrypnyk.github.io/cv-oleg_sk/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /cv-os/",
+    "build": "parcel build src/*.html --public-url /cv-oleg_sk/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oleg-skrypnyk/cv-os.git"
+    "url": "git+https://github.com/oleg-skrypnyk/cv-oleg_sk.git"
   },
   "keywords": [],
   "author": "Oleg Skrypnyk <olegaskryp@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oleg-skrypnyk/cv-os/issues"
+    "url": "https://github.com/oleg-skrypnyk/cv-oleg_sk/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",

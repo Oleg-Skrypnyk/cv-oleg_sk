@@ -8,7 +8,8 @@ export const langArr = {
     ua: 'Олег Скрипник',
   },
   profession: {
-    en: 'Progressive leader with more than 15 years’ experience in finance and operations management',
+    en: `Progressive leader with more than 15 years’ experience in finance and
+        operations management`,
     ua: '15-річний досвід роботи в управлінні та трансформації фінансової/операційної діяльності',
   },
   dob: {

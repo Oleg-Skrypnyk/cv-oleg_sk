@@ -9,7 +9,7 @@ export const langArr = {
   },
   profession: {
     en: 'Progressive leader with more than 15 years’ experience in finance and operations management',
-    ua: 'Прогресивний лідер з більш ніж 15-річним досвідом роботи в управлінні фінансами та операціями',
+    ua: '15-річний досвід роботи в управлінні та трансформації фінансової/операційної діяльності',
   },
   dob: {
     en: 'DOB:',
@@ -46,8 +46,8 @@ export const langArr = {
     ua: 'Облік і аудит',
   },
   'oper-management': {
-    en: 'Finance and operations management',
-    ua: 'Фінансовий та операційний менеджмент',
+    en: 'Operational efficiency',
+    ua: 'Операційна ефективність',
   },
   'financ-modelling': {
     en: 'Financial modelling',
@@ -55,31 +55,31 @@ export const langArr = {
   },
   risk: {
     en: 'Risk assessment',
-    ua: 'Оцінка ризику',
+    ua: 'Оцінка ризиків',
   },
   treasury: {
     en: 'Treasury',
     ua: 'Казначейство',
   },
-  optimizing: {
-    en: 'Optimizing business operations',
-    ua: 'Оптимізація діяльності',
+  digital: {
+    en: 'Digital transformation',
+    ua: 'Цифрова трансформація',
   },
-  'present-skills': {
-    en: 'Presentation skills',
-    ua: 'Презентаційні навички',
+  strategic: {
+    en: 'Strategic management',
+    ua: 'Стратегічне управління',
   },
   soft: {
     en: 'Soft Skills',
     ua: 'Особисті якості',
   },
-  decision: {
-    en: 'Decision-making',
-    ua: 'Прийняття рішень',
+  leadership: {
+    en: 'Leadership',
+    ua: 'Лідерство',
   },
-  motivation: {
-    en: 'Extreme self-motivation',
-    ua: 'Самомотивація',
+  dedication: {
+    en: 'Dedication',
+    ua: 'Відданість справі',
   },
   result: {
     en: 'Result-oriented',
@@ -89,9 +89,9 @@ export const langArr = {
     en: 'Team player',
     ua: 'Командний гравець',
   },
-  approach: {
-    en: 'Individual approach',
-    ua: 'Індивідуальний підхід',
+  сrisis: {
+    en: 'Crisis management',
+    ua: 'Кризове управління',
   },
   languages: {
     en: 'Languages',
@@ -110,8 +110,8 @@ export const langArr = {
     ua: 'рідна',
   },
   advanced: {
-    en: 'Advanced',
-    ua: 'високий рівень',
+    en: 'Conversational',
+    ua: 'розмовна',
   },
   'dots-ua': {
     en: ' ..... ',
@@ -133,9 +133,9 @@ export const langArr = {
     en: 'Fishing',
     ua: 'Риболовля',
   },
-  chess: {
-    en: 'Chess',
-    ua: 'Шахи',
+  woodworking: {
+    en: 'Woodworking',
+    ua: 'Деревообробка',
   },
 
   /*about*/

@@ -78,16 +78,40 @@
   }
 }
 
-.profession-company {
-  text-decoration: underline transparent;
-  color: $accent-color;
-  font-size: 16px;
+// .profession-company {
+//   text-decoration: underline transparent;
+//   color: $accent-color;
+//   font-size: 16px;
 
-  @include transition(text-decoration, font-size);
+//   @include transition(text-decoration, font-size);
+
+//   &:hover {
+//     font-size: 16.5px;
+//     text-decoration: underline $accent-color;
+//   }
+// }
+
+.profession-company {
+  color: $accent-color;
+  text-decoration: none;
+  font-size: 16px;
+  background-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    transparent 90%,
+    $accent-color 90%,
+    $accent-color 100%
+  );
+  background-repeat: no-repeat;
+  background-size: 0% 100%;
+  background-position-x: right;
+
+  @include transit(font-size, background-size);
 
   &:hover {
-    font-size: 16.5px;
-    text-decoration: underline $accent-color;
+    font-size: 16.2px;
+    background-size: 100% 100%;
+    background-position-x: left;
   }
 }
 
